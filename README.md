@@ -1,4 +1,5 @@
 # cbbhackathon - "Professor Know-It-All"
+<img src="/img/Logo .png" alt="Great picture"/> 
 
 ## The following project by Tucker Barber and Imad Rajwani won at the 2018 ColbyBatesBowdoin Hackathon.
 ## The motivation was to create a system that allows Professors to review what terms their students find to be difficult. 
@@ -13,3 +14,6 @@ The general flow is as follows:
 - Firebase updates words encountered in the past by incrementing their frequency of occurence.
 - Then aggregare information is charted with PlotlyJS on site made with ReactJS which serves as the professor/teacher's portal of information.
 - Swipe modal to left to close it and cotinue taking pictures.
+
+<img src="/img/home.png" /> 
+<img src="/img/Teachers.png" /> 
