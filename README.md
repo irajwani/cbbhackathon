@@ -1,7 +1,7 @@
 # cbbhackathon - "Professor Know-It-All"
 <img src="/img/Logo .png" alt="Great picture"/> 
 
-## The following project by Tucker Barber and Imad Rajwani won at the 2018 ColbyBatesBowdoin Hackathon.
+## The following project by Ariel Soares, Tucker Barber, Imad Rajwani and Senyo Ohene won at the 2018 ColbyBatesBowdoin Hackathon.
 ## The motivation was to create a system that allows Professors to review what terms their students find to be difficult. 
 
 The general flow is as follows:
