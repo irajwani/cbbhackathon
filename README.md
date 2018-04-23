@@ -15,5 +15,6 @@ The general flow is as follows:
 - Then aggregare information is charted with PlotlyJS on site made with ReactJS which serves as the professor/teacher's portal of information.
 - Swipe modal to left to close it and cotinue taking pictures.
 
+The following screenshots demonstrate this process. The relevant code is in components/camera.js.
 <img src="/img/home.png" /> 
 <img src="/img/Teachers.png" /> 
