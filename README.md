@@ -17,4 +17,7 @@ The general flow is as follows:
 
 The following screenshots demonstrate this process. The relevant code is in components/camera.js.
 <img src="/img/home.png" /> 
+<img src="/img/IMG-0692.PNG" /> 
+<img src="/img/IMG-0693.PNG" /> 
+<img src="/img/IMG-0694.PNG" /> 
 <img src="/img/Teachers.png" /> 
